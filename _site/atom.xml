@@ -4,7 +4,7 @@
  <title>Pit Stop</title>
  <link href="http://lbay.me/atom.xml" rel="self"/>
  <link href="http://lbay.me/"/>
- <updated>2015-08-18T17:11:43+08:00</updated>
+ <updated>2015-08-18T18:45:17+08:00</updated>
  <id>http://lbay.me</id>
  <author>
    <name>ayouwei</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Introducing Lanyon</title>
-   <link href="http://lbay.me/post/linux/2014/01/02/introducing-lanyon.html"/>
+   <link href="http://lbay.me/blog/linux/2014/01/02/introducing-lanyon.html"/>
    <updated>2014-01-02T00:00:00+08:00</updated>
-   <id>http://lbay.me/post/linux/2014/01/02/introducing-lanyon</id>
+   <id>http://lbay.me/blog/linux/2014/01/02/introducing-lanyon</id>
    <content type="html">&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.
 &lt;code&gt;excerpt&lt;/code&gt;&lt;/p&gt;
 
@@ -60,9 +60,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://lbay.me/post/linux/2014/01/01/example-content.html"/>
+   <link href="http://lbay.me/blog/linux/2014/01/01/example-content.html"/>
    <updated>2014-01-01T00:00:00+08:00</updated>
-   <id>http://lbay.me/post/linux/2014/01/01/example-content</id>
+   <id>http://lbay.me/blog/linux/2014/01/01/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -190,9 +190,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://lbay.me/post/linux/2013/12/31/whats-jekyll.html"/>
+   <link href="http://lbay.me/blog/linux/2013/12/31/whats-jekyll.html"/>
    <updated>2013-12-31T00:00:00+08:00</updated>
-   <id>http://lbay.me/post/linux/2013/12/31/whats-jekyll</id>
+   <id>http://lbay.me/blog/linux/2013/12/31/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;

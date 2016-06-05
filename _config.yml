@@ -7,7 +7,7 @@ permalink:          /blog/:categories/:year/:month/:day/:title.html
 title:               Pit Stop
 tagline:             'Enjoy Life, Enjoy Everyday.'
 description:         ''
-url:                 http://lbay.me
+url:                 http://www.lbay.co
 baseurl:             ''
 paginate:            5
 excerpt_separator: <!--more-->
@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 author:
   name:              ayouwei
   url:               https://twitter.com/ayouwei
-  email:             ji@lbay.me
+  email:             ji@lbay.co
 
 # Custom vars
 version:             0.0.1
